@@ -17,3 +17,5 @@ You can always reach me at niravnmore@gmail.com.
 Happy to colaborate!!
 
 Thank you for your time.
+
+## Tech Stack
