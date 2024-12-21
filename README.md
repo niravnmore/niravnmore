@@ -45,4 +45,5 @@ QA Profile:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-
+![XML](https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-black?style=flat&logo=json&logoColor=white)
